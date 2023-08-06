@@ -536,14 +536,14 @@
 			color: black;
 			position: relative;
 			right: 20px;
-			bottom: 80px;
+			bottom: 40px;
 		}
 		.into{
 			color: black;
 			position: relative;
 			left: 50px;
 
-			bottom: 90px;
+			bottom: 50px;
 			font-size: 12px;
 		}
 		.mail{
@@ -552,7 +552,7 @@
 			border-radius: 10px;
 			color: grey;
 			position: relative;
-			bottom: 70px;
+			bottom: 40px;
 			left: 70px;
 
 		}
@@ -560,7 +560,7 @@
 			background-color: blue;
 			border-radius: 10px;
 			position: relative;
-			bottom: 70px;
+			bottom: 40px;
 			left: 80px;
 		}
 		.line1{
